@@ -27,7 +27,7 @@ Both games are designed to run in a terminal and are beginner-friendly for learn
 1. Open terminal in the project folder.
 2. Compile the code:
 ```bash
-g++ main.cpp -o tictactoe
+g++ tictactoe.cpp -o tictactoe
 ````
 
 3. Run the game:
