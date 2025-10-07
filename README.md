@@ -157,9 +157,5 @@ ClassicConsoleGames/
 
 Enjoy coding and playing these classic games! 🕹️
 
-```
-
----
-
 If you want, I can also **enhance it** to include **screenshots or ASCII board examples** for both games so it looks **more professional on GitHub**.  
 
