@@ -142,7 +142,7 @@ sudo apt install build-essential
 
 ```
 ClassicConsoleGames/
-├── tictaktok.cpp        # Tic-Tac-Toe game
+├── tictactoe.cpp        # Tic-Tac-Toe game
 ├── snake.cpp       # Snake game
 └── README.md       # Project documentation
 ```
